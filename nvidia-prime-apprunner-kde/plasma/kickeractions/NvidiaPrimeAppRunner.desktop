@@ -32,4 +32,4 @@ Name[kr]=Nvidia와 함께 시작
 Name[cn]=在英伟达上运行
 Name[jp]=Nvidiaで実行
 Icon=nvidia-settings
-Exec=__NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRARY_NAME=nvidia kioclient exec "$@"
+Exec=__NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRARY_NAME=nvidia kioclient5 exec "$@"
