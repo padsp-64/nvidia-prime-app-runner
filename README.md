@@ -6,7 +6,7 @@ This applet is intended for owners of laptops with Nvidia hybrid graphics (Intel
 
 Relatively recently, Nvidia introduced PRIME Offloading for laptops with hybrid graphics, but did not take care of the convenience of using this technology for Linux end users. To use this technology, the user had to open a terminal and run an application through it using long and hard-to-remember environment variables. I was able to solve this by simplifying the use of this technology by reducing everything to two mouse clicks
 
-# Note
+# Notes
 
 This applet is only for KDE Plasma users and only for laptops with Nvidia hybrid graphics
 
