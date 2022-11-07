@@ -12,6 +12,9 @@ This applet is only for KDE Plasma users and only for laptops with Nvidia hybrid
 
 If you get a permissions error when trying to run something using the applet, check the file permissions for execution: right-click on the file, Properties -> Permisions - there should be a tick on "Is executable". If for some reason it is not checked, check it and click "OK"
 
+![Screenshot_20221107_183831](https://user-images.githubusercontent.com/81445527/200367029-dcdc8d97-e515-431a-b563-33ebf39f1ce8.png)
+![Screenshot_20221107_183906](https://user-images.githubusercontent.com/81445527/200367041-202a540e-a800-425a-9117-7cb0f068f2b1.png)
+
 # How does he work?
 
 Basically, it just inserts environment variables provided by Nvidia before executing the program. It works with shell-scripts, Linux executables, and .desktop files
