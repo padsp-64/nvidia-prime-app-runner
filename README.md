@@ -8,7 +8,7 @@ Relatively recently, Nvidia introduced PRIME Offloading for laptops with hybrid 
 
 # Note
 
-This applet is for KDE Plasma users only
+This applet is only for KDE Plasma users and only for laptops with Nvidia hybrid graphics
 
 # How does he work?
 
@@ -16,8 +16,9 @@ Basically, it just inserts environment variables provided by Nvidia before execu
 
 # Requirements
 
-1. KDE Plasma (any version)
-2. Package kde-cli-tools (because the service calls kioclient)
+1. Laptop with Nvidia hybrid graphics
+2. KDE Plasma (any version)
+3. Package kde-cli-tools (because the service calls kioclient)
 
 # Installation
 
