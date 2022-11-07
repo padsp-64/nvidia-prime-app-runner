@@ -26,3 +26,7 @@ Copy the contents of the nvidia-prime-apprunner-kde directory to ~/.local/share/
 # Removal
 
 Delete the file "NvidiaPrimeAppRunner.desktop" along the path ~/.local/share/kio/servicemenus/ and ~/.local/share/plasma/kickeractions/
+
+# How to use
+
+Just right click on the executable and click "Run on Nvidia". If you installed the applet correctly, it should appear in the context menu when you click on the file
