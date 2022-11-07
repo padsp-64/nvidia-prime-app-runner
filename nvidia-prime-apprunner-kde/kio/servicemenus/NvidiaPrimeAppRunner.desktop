@@ -1,0 +1,35 @@
+[Desktop Entry]
+Type=Service
+Name=Nvidia PRIME App Runner
+Version=1.0
+License=GNU GPL v3
+Icon=nvidia-settings
+MimeType=application/x-executable;application/x-desktop;application/x-shellscript
+Actions=RunOnNvidia
+
+[Desktop Action RunOnNvidia]
+Name=Start on Nvidia
+Name[ru]=Запустить на Nvidia
+Name[ua]=Запустити на Nvidia
+Name[by]=Запусціць на Nvidia
+Name[pl]=Urochom na Nvidia
+Name[cz]=Spustit na Nvidia
+Name[ro]=Rulați pe Nvidia
+Name[sk]=Spustite na Nvidia
+Name[si]=Zaženi na Nvidia
+Name[rs]=Покрени на Nvidia
+Name[kz]=Nvidia жүйесінде іске қосыңыз
+Name[de]=Laufen auf Nvidia
+Name[es]=Ejecutar en Nvidia
+Name[fr]=Tourner sur Nvidia
+Name[it]=Corri su Nvidia
+Name[am]=Աշխատեք Nvidia-ով
+Name[az]=Nvidia-da işləyin
+Name[tr]=Nvidia'da çalıştır
+Name[ge]=მუშაობს Nvidia-ზე
+Name[ara]=ابدأ مع Nvidia
+Name[kr]=Nvidia와 함께 시작
+Name[cn]=在英伟达上运行
+Name[jp]=Nvidiaで実行
+Icon=nvidia-settings
+Exec=__NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRARY_NAME=nvidia kioclient5 exec "$@"
