@@ -17,6 +17,7 @@ Basically, it just inserts environment variables provided by Nvidia before execu
 # Requirements
 
 1. Laptop with Nvidia hybrid graphics
+2. Nvidia proprietary driver (version 430 and above)
 2. KDE Plasma (any version)
 3. Package kde-cli-tools (because the service calls kioclient)
 
@@ -31,3 +32,9 @@ Delete the file "NvidiaPrimeAppRunner.desktop" along the path ~/.local/share/kio
 # How to use
 
 Just right click on the executable and click "Run on Nvidia". If you installed the applet correctly, it should appear in the context menu when you click on the file
+
+Work tested on Asus X555LJ laptop with Intel HD Graphisc 5500 + Nvidia GeForce 920M
+
+![Screenshot_20221107_162118](https://user-images.githubusercontent.com/81445527/200333551-846ad0ff-d1af-44e3-9128-99b996186817.png)
+![Screenshot_20221107_162007](https://user-images.githubusercontent.com/81445527/200333556-0dea6237-3ec2-4163-96d1-32ba8e94d3b6.png)
+![Screenshot_20221107_161727](https://user-images.githubusercontent.com/81445527/200333563-492f5a7f-20c4-4d86-b4f9-067db1d1a05e.png)
