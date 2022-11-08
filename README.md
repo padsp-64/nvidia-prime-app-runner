@@ -36,7 +36,7 @@ Delete the file "NvidiaPrimeAppRunner.desktop" along the path ~/.local/share/kio
 
 # How to use
 
-Just right click on the executable and click "Run on Nvidia". If you installed the applet correctly, it should appear in the context menu when you click on the file
+Just right click on the executable and click "Start on Nvidia". If you installed the applet correctly, it should appear in the context menu when you click on the file
 
 Work tested on Asus X555LJ laptop with Intel HD Graphisc 5500 + Nvidia GeForce 920M
 
