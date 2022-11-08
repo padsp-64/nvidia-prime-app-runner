@@ -43,3 +43,5 @@ Work tested on Asus X555LJ laptop with Intel HD Graphisc 5500 + Nvidia GeForce 9
 ![Screenshot_20221107_161727](https://user-images.githubusercontent.com/81445527/200333780-b22390fe-a7e4-4bcc-994d-6f2ca3bbda27.png)
 ![Screenshot_20221107_162007](https://user-images.githubusercontent.com/81445527/200333798-46682168-fc63-4ff0-ac7d-b9e5d09d712f.png)
 ![Screenshot_20221107_162118](https://user-images.githubusercontent.com/81445527/200333817-d0c3799d-0da0-481d-bb50-8d3286218e65.png)
+
+Happy using! =)
