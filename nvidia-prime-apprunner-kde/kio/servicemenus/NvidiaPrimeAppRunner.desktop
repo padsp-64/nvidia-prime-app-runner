@@ -5,9 +5,9 @@ Version=1.0
 License=GNU GPL v3
 Icon=nvidia-settings
 MimeType=application/x-executable;application/x-desktop;application/x-shellscript
-Actions=RunOnNvidia
+Actions=StartOnNvidia
 
-[Desktop Action RunOnNvidia]
+[Desktop Action StartOnNvidia]
 Name=Start on Nvidia
 Name[ru]=Запустить на Nvidia
 Name[ua]=Запустити на Nvidia
