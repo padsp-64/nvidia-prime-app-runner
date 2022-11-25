@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 Name=Nvidia PRIME App Runner
-Version=1.0
+Version=1.0-fixed
 License=GNU GPL v3
 Icon=nvidia-settings
 MimeType=application/x-executable;application/x-desktop;application/x-shellscript
@@ -12,7 +12,7 @@ Name=Start on Nvidia
 Name[ru]=Запустить на Nvidia
 Name[ua]=Запустити на Nvidia
 Name[by]=Запусціць на Nvidia
-Name[pl]=Urochom na Nvidia
+Name[pl]=Uruchom na Nvidia
 Name[cz]=Spustit na Nvidia
 Name[ro]=Rulați pe Nvidia
 Name[sk]=Spustite na Nvidia
