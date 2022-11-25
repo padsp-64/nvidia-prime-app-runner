@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 Name=Nvidia PRIME App Runner
-Version=1.0-fixed
+Version=1.0-fix
 License=GNU GPL v3
 Icon=nvidia-settings
 MimeType=application/x-executable;application/x-desktop;application/x-shellscript
